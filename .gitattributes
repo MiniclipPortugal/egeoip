@@ -1,2 +1,1 @@
-priv/GeoIP.dat filter=lfs diff=lfs merge=lfs -crlf
-priv/GeoLiteCity.dat filter=lfs diff=lfs merge=lfs -crlf
+*.gz filter=lfs diff=lfs merge=lfs -text
